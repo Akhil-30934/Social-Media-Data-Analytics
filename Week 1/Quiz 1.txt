@@ -1,0 +1,41 @@
+Question 1
+
+Which of the following is correct regarding the difference between structured and unstructured data?
+
+Ans) Structured data is where the fields or values of the data are defined.
+
+
+Question 2
+
+A tweet has a username. What kind of data is it?
+
+Ans) Structured
+
+
+Question 3
+
+A row/record of YouTube comment contains information about username, time, comment text, and number of likes. What kind of data is this record?
+
+Ans) Structured
+
+
+Question 4
+
+Dan downloads a blog page from a website. Later when he opens that file, it contains HTML characters, Javascript, and other markup stuff in addition to the blog text. What kind of data is this?
+
+Ans) Unstructured
+
+
+Question 5
+
+Find the mean in two decimal points for the following series of numbers: 3.4, 5.6,-2.3, 5.1, 6.0, -8.3
+
+Ans) 1.58
+
+
+Question 6
+
+Which of these are measures of central tendency?
+
+Ans) i) Mean
+     ii) Median

@@ -1,0 +1,45 @@
+Question 1
+
+Download iqsize.csv file attached here. In this file, we have structured data that show records of brain size, person's height and weight, and his/her IQ. 
+Answer all the questions in this quiz using this data. Round off the answers to two decimal points (e.g., 12.345 becomes 12.34)
+
+What is the average IQ in this data?
+
+Ans) 111.34
+
+
+Question 2
+
+Use the data from Question-1.
+
+What is the average brain size in this data?
+
+Ans) 90.67
+
+
+Question 3
+
+Use the data from Question-1.
+
+What is the average height of a person in this data?
+
+Ans) 68.42
+
+
+Question 4
+
+Use the data from Question-1.
+
+What is the average weight of a person in this data?
+
+Ans) 151.05
+
+
+Question 6
+
+Use the data from Question-1.
+
+On average, what is the ratio of weight over height for a person (weight / height) in this data? 
+
+
+Ans) 2.20
